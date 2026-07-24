@@ -215,7 +215,7 @@ export default function ClientsPage() {
               ) : (
                 <div>
                   <label className="form-label">Razón Social *</label>
-                  <input type="text" required value={companyName} onChange={(e) => setCompanyName(e.target.value)} placeholder="Ej: LexSearch S.A." />
+                  <input type="text" required value={companyName} onChange={(e) => setCompanyName(e.target.value)} placeholder="Ej: LexZ S.A." />
                 </div>
               )}
 

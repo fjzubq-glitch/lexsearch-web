@@ -111,7 +111,7 @@ export default function Dashboard() {
         <div className="relative z-10 max-w-2xl space-y-4">
           <span className="inline-flex items-center gap-1.5 bg-violet-500/10 text-violet-400 text-xs px-3 py-1 rounded-full font-semibold uppercase tracking-wider border border-violet-500/20">
             <span className="w-1.5 h-1.5 bg-violet-400 rounded-full animate-pulse-glow" />
-            LexSearch Premium
+            LexZ Premium
           </span>
           <h2 className="text-2xl font-display font-bold text-white pt-1">
             Bienvenido al Portal Ejecutivo

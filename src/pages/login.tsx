@@ -38,7 +38,7 @@ export default function LoginForm() {
             </svg>
           </div>
           <h1 className="text-2xl font-display font-bold text-white tracking-tight">
-            LEXSEARCH
+            LEXZ
           </h1>
           <p className="text-sm text-slate-500 mt-1">
             Sistema de Gestión para Estudios Jurídicos

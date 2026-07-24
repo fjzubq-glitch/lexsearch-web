@@ -26,7 +26,7 @@ export default function Navbar() {
               </svg>
             </div>
             <span className="font-display tracking-wider text-base font-bold text-white group-hover:text-violet-400 transition-colors duration-300">
-              LEXSEARCH
+              LEXZ
             </span>
           </Link>
 
